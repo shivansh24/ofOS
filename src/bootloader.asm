@@ -3,6 +3,9 @@
 mov bx, WelcomeMessage
 call print_string
 call print_endline
+
+mov dx, 0xbabe
+call print_hex
 jmp $
 
 %include "print.asm"
