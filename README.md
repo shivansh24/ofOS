@@ -1,5 +1,5 @@
-#ofOS
-Our first Operatin System
+# ofOS
+Our first Operating System
 
 ## How to Build
 Please make sure that you have the following utils intalled
